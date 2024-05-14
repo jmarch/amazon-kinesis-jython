@@ -3,6 +3,8 @@ amazon-kinesis-jython
 
 An Amazon Kinesis consumer that passes record data to a custom Jython-based processor.
 
+NOTE: this code was experimental and was created prior to Amazon releasing a viable python SDK for Kinesis.
+
 
 ## Configuration
 
